@@ -47,5 +47,11 @@ Footer – Brand info, quick links, customer support, and newsletter
 <pre>
 Today 14/03/2026
 
-No work today—just enjoying the Saturday holiday provided by cutting-edge technology.
+No work today—just enjoying the Saturday holiday provided by cut-edge technology.
+</pre>
+
+<pre>
+Today 15/03/2026
+
+No work today—just enjoying the Sunday holiday provided by cut-edge technology.
 </pre>
