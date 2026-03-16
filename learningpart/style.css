@@ -167,10 +167,21 @@ body{
     /* background:white; */
     border-radius:10px;
     padding:10px;
-    text-align:center;
+    /* text-align:center; */
     /* box-shadow:0 4px 10px rgba(0,0,0,0.1); */
 }
+.product-card .star{
+    color: yellow;
+}
+.product-card .star span{
+    color: #555;
+}
 
+.rate-btn{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 .product-card img{
     width:100%;
     border-radius:10px;
