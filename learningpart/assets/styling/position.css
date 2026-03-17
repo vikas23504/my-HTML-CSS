@@ -106,3 +106,9 @@ top:50px;
   z-index: 1;
 
 }
+.vik:hover{
+  color:blue;
+}
+.vik::after{
+  content: "kse ho?";
+}

@@ -49,7 +49,7 @@ footer{
 
 .about-section{
     width: 100%;
-background-image: url(Section.png);
+background-image: url("../img/section.png");
 height: 400px;
 background-size: cover;
 background-repeat: no-repeat;

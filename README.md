@@ -61,3 +61,8 @@ Today 16/03/2026
 
 I created another page for my previous project called the About Page, and I also started working on the Contact Page.
 </pre>
+
+<pre>
+Today 17/03/2026
+I completed the project assigned by Amit Sir. Additionally, I learned CSS variables ,position property ,pseudo elemnt and class and organized my project files properly using VS Code.
+</pre>
