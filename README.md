@@ -66,3 +66,18 @@ I created another page for my previous project called the About Page, and I also
 Today 17/03/2026
 I completed the project assigned by Amit Sir. Additionally, I learned CSS variables ,position property ,pseudo elemnt and class and organized my project files properly using VS Code.
 </pre>
+
+
+<pre>
+Today 18/03/2026
+
+Today, I moved all my project’s CSS into a single file so that my styling is not scattered across different files. I also studied CSS animation and transition properties.
+
+</pre>
+
+<pre>
+
+today 19/03/2026
+
+Today, I studied JavaScript and learned several important concepts. I started with variables and data types, which helped me understand how to store and manage data in a program. After that, I learned about conditional statements, which are used to make decisions in code based on different conditions. I also practiced loops, which allow us to repeat a block of code multiple times efficiently. Finally, I explored the DOM (Document Object Model), which helps in interacting with and manipulating elements on a webpage using JavaScript. Overall, it was a productive learning day and helped me build a strong foundation in JavaScript.
+<pre>
