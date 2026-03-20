@@ -80,4 +80,11 @@ Today, I moved all my project’s CSS into a single file so that my styling is n
 today 19/03/2026
 
 Today, I studied JavaScript and learned several important concepts. I started with variables and data types, which helped me understand how to store and manage data in a program. After that, I learned about conditional statements, which are used to make decisions in code based on different conditions. I also practiced loops, which allow us to repeat a block of code multiple times efficiently. Finally, I explored the DOM (Document Object Model), which helps in interacting with and manipulating elements on a webpage using JavaScript. Overall, it was a productive learning day and helped me build a strong foundation in JavaScript.
+</pre>
+
+
 <pre>
+Today 20/03/2026
+
+Today, I learned the fundamentals of React.js, including the concepts of components, props, and useState. I practiced creating reusable components, passing data between them using props, and managing state in functional components with the useState hook. This helped me understand how React manages dynamic UI and component-based architecture.
+</pre>
