@@ -83,3 +83,22 @@ Overall, it was a productive learning day and helped me build a strong foundatio
 Today, I learned the fundamentals of React.js, including the concepts of components, props, and useState.  
 I practiced creating reusable components, passing data between them using props, and managing state in functional components with the useState hook.  
 This helped me understand how React manages dynamic UI and component-based architecture.  
+
+## 📅 21/03/2026
+Today I learned the basics of JavaScript objects and classes. I understood how objects are used to store data in key-value pairs and how we can access and modify their properties. I also learned about classes, which help in creating multiple objects with similar structure using a constructor. This made my understanding of organizing code and working with data much better.
+
+## 📅 22/03/2026
+Today I learned DOM manipulation in JavaScript. I understood how to select, modify, and control HTML elements using JavaScript. I also learned how to change text, styles, and attributes dynamically. This helped me understand how websites become interactive and respond to user actions.
+
+## 📅 23/03/2026
+Today I created a UI based on basic React components, which was given as a task by Amit Sir. Through this, I practiced how to structure components and build a simple interface. It helped me understand how React components work together to create a UI and improved my confidence in building small projects.
+
+## 📅 24/03/2026
+Today I completed some JavaScript tasks from W3Schools and also built a to-do list. This helped me practice core JavaScript concepts and improve my problem-solving skills. While working on the to-do list, I understood how to use DOM manipulation and event handling to create an interactive application.
+
+
+
+
+
+
+ 
