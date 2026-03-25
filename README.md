@@ -97,6 +97,11 @@ Today I created a UI based on basic React components, which was given as a task 
 Today I completed some JavaScript tasks from W3Schools and also built a to-do list. This helped me practice core JavaScript concepts and improve my problem-solving skills. While working on the to-do list, I understood how to use DOM manipulation and event handling to create an interactive application.
 
 
+## 📅 25/03/2026
+Today I learned JavaScript asynchronous topics like Promises, async/await, and try...catch. I understood how Promises handle async tasks, async/await makes code simple and readable, and try...catch helps in handling errors properly.
+
+
+
 
 
 
