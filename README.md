@@ -101,8 +101,18 @@ Today I completed some JavaScript tasks from W3Schools and also built a to-do li
 Today I learned JavaScript asynchronous topics like Promises, async/await, and try...catch. I understood how Promises handle async tasks, async/await makes code simple and readable, and try...catch helps in handling errors properly.
 
 
-## 📅 25/03/2026
+## 📅 26/03/2026
 Today I learned some string methods like slice, substring, toUpperCase, toLowerCase, length, trim, replace, and split. I also learned some array methods like push, pop, shift, unshift, slice, splice, indexOf, includes, join, reverse, and sort.
+
+## 📅 27/03/2026
+Today I learned about some important array functions in JavaScript, such as map, filter, find, and reduce. These functions help in working with arrays more easily by transforming, filtering, finding, and combining data. 
+
+
+## 📅 27/03/2026
+No work today enjoy saturday holiday
+
+
+
 
 
 
