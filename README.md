@@ -108,8 +108,12 @@ Today I learned some string methods like slice, substring, toUpperCase, toLowerC
 Today I learned about some important array functions in JavaScript, such as map, filter, find, and reduce. These functions help in working with arrays more easily by transforming, filtering, finding, and combining data. 
 
 
-## 📅 27/03/2026
+## 📅 28/03/2026
 No work today enjoy saturday holiday
+
+
+## 📅 29/03/2026
+No work today enjoy sunday holiday
 
 
 
