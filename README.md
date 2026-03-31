@@ -115,6 +115,9 @@ No work today enjoy saturday holiday
 ## 📅 29/03/2026
 No work today enjoy sunday holiday
 
+## 📅 31/03/2026
+complete js and solve questions of js given by chatgpt
+
 
 
 
