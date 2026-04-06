@@ -118,13 +118,8 @@ No work today enjoy sunday holiday
 ## 📅 31/03/2026
 complete js and solve questions of js given by chatgpt
 
-
-
-
-
-
-
-
+## 📅 06/04/2026
+Today i work in a live project 
 
 
  
