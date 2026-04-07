@@ -121,5 +121,8 @@ complete js and solve questions of js given by chatgpt
 ## 📅 06/04/2026
 Today i work in a live project 
 
+## 📅 07/04/2026
+Today i make responsive this project and add new content
+
 
  
