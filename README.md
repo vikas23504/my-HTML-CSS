@@ -119,10 +119,16 @@ No work today enjoy sunday holiday
 complete js and solve questions of js given by chatgpt
 
 ## 📅 06/04/2026
-Today i work in a live project 
+Today I worked on a live project. I was added to the project by Amit Sir and Mohit Sir.
+
 
 ## 📅 07/04/2026
-Today i make responsive this project and add new content
+Today I worked on making the project responsive and added new content. The content was provided by Amit Sir.
+
+## 📅 08/04/2026
+Today I completed the project that was assigned by Amit Sir and Mohit Sir. Mohit Sir also asked me to add new content and checked the responsiveness of the project.
+
+
 
 
  
