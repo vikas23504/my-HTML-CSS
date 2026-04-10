@@ -128,6 +128,9 @@ Today I worked on making the project responsive and added new content. The conte
 ## 📅 08/04/2026
 Today I completed the project that was assigned by Amit Sir and Mohit Sir. Mohit Sir also asked me to add new content and checked the responsiveness of the project.
 
+## 📅 10/04/2026
+Today I peactice some topics of react.js
+
 
 
 
