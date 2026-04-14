@@ -131,7 +131,7 @@ Today I completed the project that was assigned by Amit Sir and Mohit Sir. Mohit
 ## 📅 10/04/2026
 Today I peactice some topics of react.js
 
-## 📅 10/04/2026
+## 📅 14/04/2026
 Today, I finished the core topics of React. I also created a new repository for React projects to help clear my concepts and strengthen my understanding.
 
 
