@@ -1,0 +1,40 @@
+body{
+    background-color:rgb(203, 201, 197);
+    padding: 50px;
+}
+
+form{
+    width: 350px;
+    background-color: white;
+    display: flex;
+    margin-left: 400px;
+    flex-direction: column;
+   
+    gap: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+input , select{
+    width: 300px;
+    height: 20px;
+}
+
+button{
+    width: 100px;
+    background-color: rgb(62, 119, 172);
+    color: white;
+    padding: 4px;
+    text-align: center;
+}
+
+table{
+    width: 100%;
+    margin-top: 40px;
+}
+th{
+    border: 1px solid black;
+}
+tbody{
+    border: 1px solid black;
+}
