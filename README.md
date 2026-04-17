@@ -135,7 +135,11 @@ Today I peactice some topics of react.js
 Today, I finished the core topics of React. I also created a new repository for React projects to help clear my concepts and strengthen my understanding.
 
 ## 📅 16/04/2026
-Today I create a previous project in this project i create two new pages one is privacy policy and 2nd is terms of service and also craete a smaal project in react 
+Today I create a previous project in this project i create two new pages one is privacy policy and 2nd is terms of service and also craete a small project in react 
+
+## 📅 17/04/2026
+Today tanishq sir give me a task which is based on core concepts of js and he also give me a react project in this peoject thie data is pass feom one page to another by props and use api for data and pictures 
+
 
 
 
