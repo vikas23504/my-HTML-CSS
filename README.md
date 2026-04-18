@@ -140,6 +140,10 @@ Today I create a previous project in this project i create two new pages one is 
 ## 📅 17/04/2026
 Today tanishq sir give me a task which is based on core concepts of js and he also give me a react project in this peoject thie data is pass feom one page to another by props and use api for data and pictures 
 
+## 📅 18/04/2026
+Today My company schdule a mock interview for intern and i also participate this 
+
+
 
 
 
