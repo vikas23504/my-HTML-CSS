@@ -143,6 +143,10 @@ Today tanishq sir give me a task which is based on core concepts of js and he al
 ## 📅 18/04/2026
 Today My company schdule a mock interview for intern and i also participate this 
 
+## 📅 20/04/2026
+Today i create a home page of furino project which is given  by tanishq sir 
+
+
 
 
 
