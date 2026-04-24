@@ -146,6 +146,10 @@ Today My company schdule a mock interview for intern and i also participate this
 ## 📅 20/04/2026
 Today i create a home page of furino project which is given  by tanishq sir 
 
+## 📅 24/04/2026
+Today I didn’t do any work, but I studied some concepts related to the project I’m currently working on. However, I haven’t implemented them yet.
+
+
 
 
 
