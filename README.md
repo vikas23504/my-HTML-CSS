@@ -150,7 +150,8 @@ Today i create a home page of furino project which is given  by tanishq sir
 Today I didn’t do any work, but I studied some concepts related to the project I’m currently working on. However, I haven’t implemented them yet.
 
 
-
+## 📅 20/04/2026
+Today i recap the  some concept of react like useState event , handling , props etc. 
 
 
 
