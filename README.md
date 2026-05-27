@@ -150,9 +150,11 @@ Today i create a home page of furino project which is given  by tanishq sir
 Today I didn’t do any work, but I studied some concepts related to the project I’m currently working on. However, I haven’t implemented them yet.
 
 
-## 📅 20/04/2026
+## 📅 26/05/2026
 Today i recap the  some concept of react like useState event , handling , props etc. 
 
+## 📅 27/05/2026
+Today i recap the another remaining concept of react and like use navigate react routing usereducer and some other concepts along these concept i am also recap the basics of javascript concept so that my frontend is strong after the js and react concepts i will start backend 
 
 
 
