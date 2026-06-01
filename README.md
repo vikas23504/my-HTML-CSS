@@ -156,6 +156,9 @@ Today i recap the  some concept of react like useState event , handling , props 
 ## 📅 27/05/2026
 Today i recap the another remaining concept of react and like use navigate react routing usereducer and some other concepts along these concept i am also recap the basics of javascript concept so that my frontend is strong after the js and react concepts i will start backend 
 
+## 📅 01/06/2026
+Today i work in a CRM project as a frontend devloper which is assigned me amit sir and tanish sir is my mentor he give me task and check thos and then give ame next task 
+
 
 
 
