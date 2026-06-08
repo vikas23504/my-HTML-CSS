@@ -159,6 +159,10 @@ Today i recap the another remaining concept of react and like use navigate react
 ## 📅 01/06/2026
 Today i work in a CRM project as a frontend devloper which is assigned me amit sir and tanish sir is my mentor he give me task and check thos and then give ame next task 
 
+## 📅 08/06/2026
+Today i make responsive of the full crm project
+and my next task is audit the folder str of the project
+
 
 
 
