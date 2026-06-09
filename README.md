@@ -164,6 +164,10 @@ Today i make responsive of the full crm project
 and my next task is audit the folder str of the project
 
 
+## 📅 09/06/2026
+Today i check the full work flow of crm and learn pr (pull req)
+
+
 
 
  
